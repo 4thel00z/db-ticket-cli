@@ -1,0 +1,29 @@
+{
+  "name": "db-ticket-cli",
+  "version": "1.0.0",
+  "description": "Cli to read your aztec codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4thel00z/dbsux.git"
+  },
+  "keywords": [
+    "db",
+    "scanner",
+    "reader",
+    "cli"
+  ],
+  "author": "ransomware",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/4thel00z/dbsux/issues"
+  },
+  "homepage": "https://github.com/4thel00z/dbsux#readme",
+  "dependencies": {
+    "ticket-parser": "^0.1.0",
+    "zebra-crossing": "^0.1.1"
+  }
+}
